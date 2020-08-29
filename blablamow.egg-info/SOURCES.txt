@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+blablamow/__init__.py
+blablamow/blablamow.py
+blablamow.egg-info/PKG-INFO
+blablamow.egg-info/SOURCES.txt
+blablamow.egg-info/dependency_links.txt
+blablamow.egg-info/top_level.txt
